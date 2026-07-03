@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:11,13 C
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a11y/index.m3u8
@@ -95,13 +95,13 @@ http://45.188.229.33:8000/play/a13e/index.m3u8
 #EXTINF:0,CNN Espanol
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a0to/index.m3u8
-#EXTINF:0,CNN Espaæol
+#EXTINF:0,CNN EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a11h/index.m3u8
 #EXTINF:0,CNN International
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a11e/index.m3u8
-#EXTINF:0,CNN en Espaæol
+#EXTINF:0,CNN en EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1at/index.m3u8
 #EXTINF:0,Canal 13 HD
@@ -179,7 +179,7 @@ http://45.188.229.33:8000/play/a1f1/index.m3u8
 #EXTINF:0,DHE 
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a13k/index.m3u8
-#EXTINF:0,DW Espaæol
+#EXTINF:0,DW EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a0xb/index.m3u8
 #EXTINF:0,De Pelicula
@@ -437,7 +437,7 @@ http://45.188.229.33:8000/play/a1il/index.m3u8
 #EXTINF:0,GamaTV
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a0vb/index.m3u8
-#EXTINF:0,Gamavisiðn
+#EXTINF:0,GamavisiÃ°n
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1gm/index.m3u8
 #EXTINF:0,Global
@@ -572,7 +572,7 @@ http://45.188.229.33:8000/play/a1eq/index.m3u8
 #EXTINF:0,MTV Live
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a12t/index.m3u8
-#EXTINF:0,MTV×00
+#EXTINF:0,MTVÃ—00
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1as/index.m3u8
 #EXTINF:0,Mega
@@ -587,7 +587,7 @@ http://45.188.229.33:8000/play/a1f3/index.m3u8
 #EXTINF:0,Movistar Informa
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1ew/index.m3u8
-#EXTINF:0,MÆsChic
+#EXTINF:0,MÃ†sChic
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a0xt/index.m3u8
 #EXTINF:0,NPY
@@ -680,7 +680,7 @@ http://45.188.229.33:8000/play/a1e8/index.m3u8
 #EXTINF:0,RPP
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a0x0/index.m3u8
-#EXTINF:0,RT en Espaæol
+#EXTINF:0,RT en EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1co/index.m3u8
 #EXTINF:0,RTS
@@ -752,7 +752,7 @@ http://45.188.229.33:8000/play/a13o/index.m3u8
 #EXTINF:0,TC
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a0vg/index.m3u8
-#EXTINF:0,TC Televisiðn
+#EXTINF:0,TC TelevisiÃ°n
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1gn/index.m3u8
 #EXTINF:0,TCM
@@ -869,7 +869,7 @@ http://45.188.229.33:8000/play/a1dm/index.m3u8
 #EXTINF:0,Telefe HD
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1cl/index.m3u8
-#EXTINF:0,TelefØ
+#EXTINF:0,TelefÃ˜
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a11s/index.m3u8
 #EXTINF:0,Teleislas
